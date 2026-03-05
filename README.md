@@ -8,36 +8,13 @@
 </h1>
 
 <h3 align="center">
-  ⚛️ 📄 :rocket:
+  ❤️ ⚛️ 📄
 </h3>
 <h3 align="center">
   Fast in every way that matters
 </h3>
 <p align="center">
   Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
-</p>
-<p align="center">
-  <a href="https://github.com/gatsbyjs/gatsby/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Gatsby is released under the MIT license." />
-  </a>
-  <a href="https://circleci.com/gh/gatsbyjs/gatsby">
-    <img src="https://circleci.com/gh/gatsbyjs/gatsby.svg?style=shield" alt="Current CircleCI build status." />
-  </a>
-  <a href="https://www.npmjs.org/package/gatsby">
-    <img src="https://img.shields.io/npm/v/gatsby.svg" alt="Current npm package version." />
-  </a>
-  <a href="https://npmcharts.com/compare/gatsby?minimal=true">
-    <img src="https://img.shields.io/npm/dm/gatsby.svg" alt="Downloads per month on npm." />
-  </a>
-  <a href="https://npmcharts.com/compare/gatsby?minimal=true">
-    <img src="https://img.shields.io/npm/dt/gatsby.svg" alt="Total downloads on npm." />
-  </a>
-  <a href="https://gatsbyjs.org/contributing/how-to-contribute/">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=gatsbyjs">
-    <img src="https://img.shields.io/twitter/follow/gatsbyjs.svg?label=Follow%20@gatsbyjs" alt="Follow @gatsbyjs" />
-  </a>
 </p>
 
 <h3 align="center">
@@ -91,7 +68,7 @@ Gatsby is a modern framework for blazing fast websites.
 - [License](#memo-license)
 - [Thanks to Our Contributors and Sponsors](#-thanks-to-our-contributors-and-sponsors)
 
-## 🚀 Get Up and Running in 5 Minutes
+## Get Up and Running in 5 Minutes
 
 You can get a new Gatsby site up and running on your local dev environment in 5 minutes with these three steps:
 
@@ -119,34 +96,34 @@ You can get a new Gatsby site up and running on your local dev environment in 5 
 
 At this point, you’ve got a fully functional Gatsby website. For additional information on how you can customize your Gatsby site, see our [plugins](https://gatsbyjs.org/plugins/) and [the official tutorial](https://gatsbyjs.org/tutorial/).
 
-## 🎓 Learning Gatsby
+## Learning Gatsby
 
 Full documentation for Gatsby lives [on the website](https://gatsbyjs.org/).
 
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
-- **To dive straight into code samples head [to our documentation](https://gatsbyjs.org/docs/).** In particular, check out the “<i>Guides</i>”, “<i>API Reference</i>”, and “<i>Advanced Tutorials</i>” sections in the sidebar.
+- **To dive straight into code samples head [to our documentation](https://gatsbyjs.org/docs/).** In particular, check out the “Guides”, “API Reference”, and “Advanced Tutorials” sections in the sidebar.
 
 We welcome suggestions for improving our docs. See the [“how to contribute”](https://gatsbyjs.org/contributing/how-to-contribute/) documentation for more details.
 
 **Start Learning Gatsby: [Follow the Tutorial](https://gatsbyjs.org/tutorial/) · [Read the Docs](https://gatsbyjs.org/docs/)**
 
-## 💼 Migration Guides
+## Migration Guides
 
 Already have a Gatsby site? These handy guides will help you add the improvements of Gatsby v2 to your site without starting from scratch!
 
 - [Migrate a Gatsby site from v1 to v2](https://gatsbyjs.org/docs/migrating-from-v1-to-v2/)
 - Still on v0? Start here: [Migrate a Gatsby site from v0 to v1](https://gatsbyjs.org/docs/migrating-from-v0-to-v1/)
 
-## 🤝 How to Contribute
+## How to Contribute
 
-Whether you're helping us fix bugs, improve the docs, or spread the word, we'd love to have you as part of the Gatsby community! :muscle::purple_heart:
+Whether you're helping us fix bugs, improve the docs, or spread the word, we'd love to have you as part of the Gatsby community! 
 
 Check out our [**Contributing Guide**](https://gatsbyjs.org/contributing/how-to-contribute/) for ideas on contributing and setup steps for getting our repositories up and running on your local machine.
 
 ### Code of Conduct
 
-Gatsby is dedicated to building a welcoming, diverse, safe community. We expect everyone participating in the Gatsby community to abide by our [**Code of Conduct**](https://gatsbyjs.org/contributing/code-of-conduct/). Please read it. Please follow it. In the Gatsby community, we work hard to build each other up and create amazing things together. 💪💜
+Gatsby is dedicated to building a welcoming, diverse, safe community. We expect everyone participating in the Gatsby community to abide by our [**Code of Conduct**](https://gatsbyjs.org/contributing/code-of-conduct/). Please read it. Please follow it. In the Gatsby community, we work hard to build each other up and create amazing things together. 
 
 ### A note on how this repository is organized
 
@@ -156,11 +133,11 @@ This repository is a [monorepo](https://trunkbaseddevelopment.com/monorepos/) ma
 
 We are currently only accepting bug fixes for Gatsby v1. No new features will be accepted.
 
-## :memo: License
+## License
 
 Licensed under the [MIT License](./LICENSE).
 
-## 💜 Thanks to Our Contributors and Sponsors
+## Thanks to Our Contributors and Sponsors
 
 Thanks to our many contributors and sponsors as well as the companies sponsoring
 our testing and hosting infrastructure: [Circle CI](https://circleci.com/), [Appveyor](https://www.appveyor.com/), and [Netlify](https://www.netlify.com/).
