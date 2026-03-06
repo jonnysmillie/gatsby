@@ -1,8 +1,4 @@
-# Change Log
 
-See the [Gatsby CHANGELOG.md](./packages/gatsby/CHANGELOG.md)
-
----
 
 Gatsby is distributed as a [monorepo][monorepo] using [lerna][lerna]. Several other large open-source projects are distributed this way, including [babel][babel], [react][react], etc.
 
